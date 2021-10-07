@@ -11,6 +11,7 @@ _Some company names have a ⚠ icon next to them. This icon means we don't have 
 
 Name | Website | Region
 ------------ | ------- | -------
+[poetic crafts](/company-profiles/and-poetic crafts.md)(http:/poetic crafts.unaux.com)/panchkula,chandigarh(in INDIA)
 [&yet](/company-profiles/and-yet.md) | https://andyet.com | Worldwide
 [10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas
